@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bilbo', cursive;
+    color: rgb(171, 141, 8);
+}
+h2{
+    text-align: center;
+    color:rgb(171, 141, 8)
+}
+h3{
+    color: rgb(171, 141, 8)
+
+}
+table,
+td {
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    color: rgb(191, 191, 191);
+}
+
+thead,
+tfoot {
+    background-color: rgb(20, 49, 44);
+    color: rgb(191,191,191);
+}
+body{
+    /* background-image: url(https://cdn.pixabay.com/photo/2019/09/22/05/26/hobbit-4495138_960_720.jpg); */
+    background-color: rgb(47, 79, 64);
+
+}
+a{
+    font-size: 20px;
+    color: rgb(255, 166, 0);
+    box-shadow: 10px 5px 5px rgb(20, 49, 44);
+    writing-mode: horizontal-tb;
+    border-block-width: 3px;
+    
+
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    width: 99%;
+}
